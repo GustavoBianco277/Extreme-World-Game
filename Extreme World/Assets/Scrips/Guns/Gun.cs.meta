@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 56f0d5c265a3b10459cdba8d53f3d18a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ammoParticle: {instanceID: 0}
+  - impact: {instanceID: 0}
+  - bulledHole: {instanceID: 0}
+  - reload: {instanceID: 0}
+  - fire: {instanceID: 0}
+  - horizontal_crosshair: {fileID: 2800000, guid: e1aa4c90445944348a112c3b7fa4b318,
+      type: 3}
+  - vertical_crosshair: {fileID: 2800000, guid: 3f8b669e9880644cbb903f67bbc9f824,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
