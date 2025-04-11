@@ -1,2 +1,2 @@
 # Extreme-World-Game
-Um projeto de um jogo de longa data, sendo desenvolvido por mim
+Jogo de sobrevivência multiplayer com Photon Fusion 2, e integração com banco de dados, sendo desenvolvido por mim na Unity 6.
